@@ -1,6 +1,6 @@
 {
     "name": "iqs-clients-signals-node",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Conceptual Vision Consulting LLC",
     "description": "Node.js client sdk for signals microservice",
     "contributors": [
@@ -52,6 +52,6 @@
         "restify": "^4.3.0",
         "chai": "*",
         "mocha": "*",
-        "iqs-services-signals-node": "^0.1.0"
+        "iqs-services-signals-node": "^1.0.0"
     }
 }
